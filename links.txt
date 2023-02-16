@@ -1,0 +1,8 @@
+Dynamics
+https://org90caa978.crm2.dynamics.com/main.aspx?appid=4d306bb3-f4a9-ed11-9885-000d3a888f48&pagetype=control&controlName=MscrmControls.AcceleratedSales.AnchorShellControl
+
+PowerApps
+https://make.powerapps.com/environments/Default-dbc6fbcb-930f-4f81-b0e8-ed78a4183e94/entities
+
+PowerPlataform
+https://admin.powerplatform.microsoft.com/environments?geo=Sam
