@@ -1,0 +1,6 @@
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.Customizations\bin\Debug\Dynacoop2023.AlfaPeople.Customizations.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.Customizations\bin\Debug\Dynacoop2023.AlfaPeople.Customizations.pdb
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.Customizations\obj\Debug\Dynacoop2023.AlfaPeople.Customizations.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.Customizations\obj\Debug\Dynacoop2023.AlfaPeople.Customizations.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.Customizations\obj\Debug\Dynacoop2023.AlfaPeople.Customizations.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.Customizations\obj\Debug\Dynacoop2023.AlfaPeople.Customizations.pdb

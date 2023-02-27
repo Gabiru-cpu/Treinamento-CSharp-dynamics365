@@ -5,6 +5,12 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynacoop2023.AlfaPeople.ConsoleApplication", "Dynacoop2023.AlfaPeople.ConsoleApplication\Dynacoop2023.AlfaPeople.ConsoleApplication.csproj", "{F1E5906E-BBA7-4DBD-B339-EAAA950C212C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynacoop2023.AfaPeople.MyFirstPlugin", "Dynacoop2023.AfaPeople.MyFirstPlugin\Dynacoop2023.AfaPeople.MyFirstPlugin.csproj", "{1363A0D8-C66F-4F2C-BD69-4337EB0A65A7}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Dynacoop2023.AlfaPeople.SharedProject", "Dynacoop2023.AlfaPeople.SharedProject\Dynacoop2023.AlfaPeople.SharedProject.shproj", "{0744E03D-8C61-4434-A8D3-7666A105299B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynacoop2023.AlfaPeople.Customizations", "Dynacoop2023.AlfaPeople.Customizations\Dynacoop2023.AlfaPeople.Customizations.csproj", "{2B83709D-8B7C-4FD3-985D-4E36329BD4AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,11 +21,23 @@ Global
 		{F1E5906E-BBA7-4DBD-B339-EAAA950C212C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1E5906E-BBA7-4DBD-B339-EAAA950C212C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1E5906E-BBA7-4DBD-B339-EAAA950C212C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1363A0D8-C66F-4F2C-BD69-4337EB0A65A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1363A0D8-C66F-4F2C-BD69-4337EB0A65A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1363A0D8-C66F-4F2C-BD69-4337EB0A65A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1363A0D8-C66F-4F2C-BD69-4337EB0A65A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B83709D-8B7C-4FD3-985D-4E36329BD4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B83709D-8B7C-4FD3-985D-4E36329BD4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B83709D-8B7C-4FD3-985D-4E36329BD4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B83709D-8B7C-4FD3-985D-4E36329BD4AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {899DBDFD-9D75-4E98-B0E8-B3A3A9517655}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Dynacoop2023.AlfaPeople.SharedProject\Dynacoop2023.AlfaPeople.SharedProject.projitems*{0744e03d-8c61-4434-a8d3-7666a105299b}*SharedItemsImports = 13
+		Dynacoop2023.AlfaPeople.SharedProject\Dynacoop2023.AlfaPeople.SharedProject.projitems*{1363a0d8-c66f-4f2c-bd69-4337eb0a65a7}*SharedItemsImports = 4
 	EndGlobalSection
 EndGlobal
